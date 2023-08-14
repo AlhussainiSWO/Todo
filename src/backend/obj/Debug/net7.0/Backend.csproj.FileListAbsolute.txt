@@ -1,0 +1,152 @@
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\appsettings.Development.json
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\appsettings.json
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Backend.exe
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Backend.deps.json
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Backend.runtimeconfig.json
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Backend.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Backend.pdb
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Azure.Core.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Azure.Identity.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Humanizer.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\System.CodeDom.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\System.Memory.Data.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\Backend.csproj.AssemblyReference.cache
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\Backend.AssemblyInfoInputs.cache
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\Backend.AssemblyInfo.cs
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\Backend.csproj.CoreCompileInputs.cache
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\staticwebassets\msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.Backend.props
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Backend.props
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Backend.props
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\scopedcss\bundle\Backend.styles.css
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\Backend.csproj.CopyComplete
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\Backend.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\refint\Backend.dll
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\Backend.pdb
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\Backend.genruntimeconfig.cache
+C:\My Drive on PC\Project\Angular\ToDoList\Backend\obj\Debug\net7.0\ref\Backend.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\appsettings.json
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Backend.exe
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Backend.deps.json
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Backend.runtimeconfig.json
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Backend.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Backend.pdb
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Azure.Core.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Azure.Identity.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Humanizer.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\System.CodeDom.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\Backend.csproj.AssemblyReference.cache
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\Backend.AssemblyInfoInputs.cache
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\Backend.AssemblyInfo.cs
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\Backend.csproj.CoreCompileInputs.cache
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\staticwebassets\msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\staticwebassets\msbuild.build.Backend.props
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Backend.props
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Backend.props
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\scopedcss\bundle\Backend.styles.css
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\Backend.csproj.CopyComplete
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\Backend.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\refint\Backend.dll
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\Backend.pdb
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\Backend.genruntimeconfig.cache
+C:\Local\Program Files\Fork\ToDo\src\backend\obj\Debug\net7.0\ref\Backend.dll

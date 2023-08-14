@@ -1,0 +1,54 @@
+$form-field-width: 300px;
+
+#form-container {
+  width: 100vw;
+  justify-content: center;
+  display: flex;
+}
+
+.form-field-row {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+
+mat-card {
+  display: flex;
+  padding: 0.5rem;
+  width: 750px;
+  mat-card-header {
+    mat-card-subtitle {
+      padding-top: 0.5rem;
+    }
+  }
+  mat-card-actions {
+    flex-direction: column;
+    padding-top: 1.5rem;
+    justify-content: center;
+
+    form {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      padding-right: 0;
+      flex-direction: column;
+
+      mat-form-field {
+        flex-wrap: wrap;
+        width: auto;
+        height: 50px;
+        display: inline-block;
+      }
+    }
+
+    #login-form {
+      mat-form-field {
+        min-width: $form-field-width;
+      }
+    }
+    button {
+      margin-top: 1.5rem;
+    }
+  }
+}
+

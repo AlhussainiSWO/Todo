@@ -1,0 +1,103 @@
+<div id="form-container">
+  <mat-card>
+    <mat-tab-group (selectedTabChange)="changeActiveForm()">
+      <mat-tab label="Login">
+        <mat-card-header>Enter an existing account.</mat-card-header>
+        <mat-card-actions>
+          <form [formGroup]="loginForm" id="login-form">
+            <mat-form-field
+              class="form-field"
+              subscriptSizing="dynamic"
+              required="true"
+            >
+              <input
+                matInput
+                formControlName="email"
+                type="email"
+                placeholder="E-Mail"
+                aria-label="E-Mail"
+              />
+            </mat-form-field>
+            <mat-form-field
+              class="form-field"
+              subscriptSizing="dynamic"
+              required="true"
+            >
+              <input
+                matInput
+                formControlName="password"
+                type="password"
+                placeholder="Password"
+                aria-label="Password"
+              />
+            </mat-form-field>
+            <mat-checkbox formControlName="stayLoggedIn"
+              >Stay logged in?</mat-checkbox
+            >
+          </form>
+          <button mat-raised-button (click)="login()">Login</button>
+        </mat-card-actions>
+      </mat-tab>
+      <mat-tab label="Register">
+        <mat-card-header>Create a new account.</mat-card-header>
+        <mat-card-actions>
+          <form [formGroup]="registerForm" id="register-form">
+            <mat-form-field
+              class="form-field"
+              subscriptSizing="dynamic"
+              required="true"
+            >
+              <input
+                matInput
+                formControlName="email"
+                type="text"
+                placeholder="E-Mail"
+                aria-label="E-Mail"
+              />
+            </mat-form-field>
+            <mat-form-field
+              class="form-field"
+              subscriptSizing="dynamic"
+              required="true"
+            >
+              <input
+                matInput
+                formControlName="userName"
+                type="text"
+                placeholder="Username"
+                aria-label="Username"
+              />
+            </mat-form-field>
+            <mat-form-field
+              class="form-field"
+              subscriptSizing="dynamic"
+              required="true"
+            >
+              <input
+                matInput
+                formControlName="password"
+                type="password"
+                placeholder="Password"
+                aria-label="Password"
+              />
+            </mat-form-field>
+            <mat-form-field
+              class="form-field"
+              subscriptSizing="dynamic"
+              required="true"
+            >
+              <input
+                matInput
+                formControlName="confirmPassword"
+                type="password"
+                placeholder="Confirm Password"
+                aria-label="Confirm Password"
+              />
+            </mat-form-field>
+          </form>
+          <button mat-raised-button (click)="register()">Register</button>
+        </mat-card-actions>
+      </mat-tab>
+    </mat-tab-group>
+  </mat-card>
+</div>

@@ -30,13 +30,14 @@ import { HttpClientModule } from '@angular/common/http';
 import { TaskPageComponent } from './pages/task-page/task-page.component';
 import { LoginPageComponent } from './pages/login-page/login-page.component';
 import { userReducer } from './domain/user/user.reducers';
+import { taskReducer } from './domain/task/task.reducers';
 
 @NgModule({
   declarations: [AppComponent, TaskPageComponent, LoginPageComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    StoreModule.forRoot({ user: userReducer }),
+    StoreModule.forRoot({ user: userReducer, task: taskReducer }),
     BrowserAnimationsModule,
     MatTableModule,
     MatButtonModule,

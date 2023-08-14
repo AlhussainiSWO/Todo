@@ -26,7 +26,7 @@ namespace Backend
                             .AllowAnyMethod();
                     });
             });
-
+            services.AddControllers().AddNewtonsoftJson();
             services.AddSwaggerGen((service) => service.SwaggerDoc("v1", new OpenApiInfo { Title = "MyFirstApi", Version = "v1" }));
         }
 
